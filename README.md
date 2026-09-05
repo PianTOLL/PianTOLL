@@ -4,7 +4,7 @@
 <!-- GANTI teks & warna di bawah sesuai selera di https://readme-typing-svg.demolab.com -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+FIAN+ANDIKA+PUTRA+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Front-End+%2B+Back-End+Enthusiast;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://pin.it/6EWwwN3EY" width="100%">
 
 <!-- GANTI USERNAME dengan username GitHub kamu -->
 ![Profile Views](https://komarev.com/ghpvc/?username=PianTOLL&label=Profile%20Views&color=61dafb&style=flat)
