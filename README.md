@@ -16,7 +16,7 @@
 <tr>
 <td width="60%">
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Web Developer yang suka bikin **UI rapi & interaktif**
 - 🛠️ Fokus di **Front-End Development**, sedikit-sedikit main **Back-End**
@@ -25,7 +25,7 @@
 - 🎮 Kalau mau **mabar**, gas cus — colek aja di bagian **Connect** di bawah
 
 </td>
-<td width="40%">
+<td width="50%">
 <img src="img\yuji.jpg" width="100%">
 </td>
 </tr>
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PianTOLL&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PianTOLL&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PianTOLL&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PianTOLL&theme=tokyonight" width="300" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PianTOLL&theme=tokyonight" width="300" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PianTOLL&theme=tokyonight" width="300" /> 
 
 ![Streak](https://streak-stats.demolab.com/?user=PianTOLL&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB)
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pianap_) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fianandikaputra@gmail.com) [![Steam](https://img.shields.io/badge/Steam-2E8B57?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199404636707/)  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yantoll_) 
 
