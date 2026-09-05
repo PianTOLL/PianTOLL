@@ -46,10 +46,7 @@
 
 ### 📌 Featured Projects
 
-**[📦 GamYan](https://github.com/PianTOLL/GamYan)**
-[![Language](https://img.shields.io/github/languages/top/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
-[![Stars](https://img.shields.io/github/stars/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
-[![Last Commit](https://img.shields.io/github/last-commit/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
+**[📦 GamYan](https://github.com/PianTOLL/GamYan)
 
 ### 🔗 Connect with Me
 
