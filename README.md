@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- GANTI teks & warna di bawah sesuai selera di https://readme-typing-svg.demolab.com -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fian+Andika+Putra+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Front-End+%2B+Back-End+Enthusiast;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fian+Andika+Putra+%F0%9F%91%8B;+I'm+Web+and+Game+Developer+%F0%9F%92%BB;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 <img src="img\kicing.gif" width="100%">
 
@@ -38,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PianTOLL&theme=tokyonight" width="300" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PianTOLL&theme=tokyonight" width="300" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PianTOLL&theme=tokyonight" width="300" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PianTOLL&theme=tokyonight" width="250" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PianTOLL&theme=tokyonight" width="250" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PianTOLL&theme=tokyonight" width="250" /> 
 
 ![Streak](https://streak-stats.demolab.com/?user=PianTOLL&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB)
 
