@@ -5,12 +5,12 @@
 
 <img src="img\kicing.gif" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=PianTOLL&label=Profile%20Views&color=61dafb&style=flat)
-![Followers](https://img.shields.io/github/followers/PianTOLL?label=Followers&style=flat&color=61dafb)
+![Profile Views](https://komarev.com/ghpvc/?username=PianTOLL&label=Profile%20Views&color=61dafb&style=flat) ![Followers](https://img.shields.io/github/followers/PianTOLL?label=Followers&style=flat&color=61dafb)
+
 
 </div>
 
----
+<br><br>
 
 <table>
 <tr>
@@ -20,8 +20,8 @@
 
 - 🎓 Web Developer yang suka bikin **UI rapi & interaktif**
 - 🛠️ Fokus di **Front-End Development**, sedikit-sedikit main **Back-End**
-- 🌱 Lagi belajar hal baru tiap hari (framework, tools, best practices)
-- 🎧 Ngoding lebih enak sambil dengerin musik
+- 🌱 Lagi **belajar** hal baru tiap hari (framework, tools, best practices)
+- 🎧 Ngoding lebih enak sambil dengerin **musik**
 - 🎮 Kalau mau **mabar**, gas cus — colek aja di bagian **Connect** di bawah
 
 </td>
@@ -31,37 +31,35 @@
 </tr>
 </table>
 
+<br>
 
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
-<!-- GANTI USERNAME dengan username GitHub kamu -->
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PianTOLL&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PianTOLL&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PianTOLL&theme=tokyonight" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PianTOLL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PianTOLL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB)
 ![Streak](https://streak-stats.demolab.com/?user=PianTOLL&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB)
 
 </div>
 
-### 📌 Featured Projects
+<br><br>
 
-**[📦 GamYan](https://github.com/PianTOLL/GamYan)**
-[![Language](https://img.shields.io/github/languages/top/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
-[![Stars](https://img.shields.io/github/stars/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
-[![Last Commit](https://img.shields.io/github/last-commit/PianTOLL/GamYan?style=flat&color=61dafb)](https://github.com/PianTOLL/GamYan)
-
-### 🔗 Connect with Me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) 
+### 🔗 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pianap_) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fianandikaputra@gmail.com) [![Steam](https://img.shields.io/badge/Steam-2E8B57?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199404636707/)  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yantoll_) 
 
 </div>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- Snake animation kontribusi GitHub — setup workflow-nya lihat catatan di bawah -->
+<br>
+
 ![snake gif](https://raw.githubusercontent.com/PianTOLL/PianTOLL/output/github-contribution-grid-snake.svg)
